@@ -6,3 +6,9 @@ position: relative;
 #introcontent {
 text-align: center;
 }
+
+#video {
+position: relative;
+width: 50%;
+height: auto;
+}
