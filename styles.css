@@ -3,6 +3,10 @@ background-color: #AFAFAF;
 font-family: 'Ubuntu';
 }
 
+h1 {
+font-size: 2em;
+}
+
 #introcontent {
 position: relative;
 text-align: center;
