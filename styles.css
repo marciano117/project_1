@@ -1,10 +1,14 @@
 body {
 background-color: #AFAFAF;
-position: relative;
 font-family: 'Ubuntu';
 }
 
 #introcontent {
+position: relative;
+text-align: center;
+}
+
+#form {
 text-align: center;
 }
 
