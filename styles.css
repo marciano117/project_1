@@ -1,6 +1,7 @@
 body {
 background-color: #AFAFAF;
 position: relative;
+font-family: 'Ubuntu';
 }
 
 #introcontent {
@@ -9,6 +10,6 @@ text-align: center;
 
 #video {
 position: relative;
-width: 50%;
+width: 70%;
 height: auto;
 }
