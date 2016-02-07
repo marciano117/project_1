@@ -13,3 +13,9 @@ position: relative;
 width: 70%;
 height: auto;
 }
+
+#bodytext {
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
