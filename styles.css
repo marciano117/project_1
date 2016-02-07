@@ -1,6 +1,5 @@
 body {
 background-color: #AFAFAF;
-font-family: 'Ubuntu';
 }
 
 h1 {
@@ -13,6 +12,7 @@ text-align: center;
 }
 
 #form {
+font-family: 'Ubuntu';
 text-align: center;
 font-size: 1.5em;
 }
@@ -45,7 +45,8 @@ left: 0;
 top: 0;
 }
 
-#bodytext {
+#bodytext, #videotext {
+    font-family: 'Ubuntu';
     text-align: left;
     margin-left: 10%;
     margin-right: 10%;
