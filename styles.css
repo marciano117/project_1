@@ -53,7 +53,7 @@ left: 0;
 top: 0;
 }
 
-#bodytext, #videotext {
+#goaltext, #bodytext, #videotext {
     font-family: 'Ubuntu';
     text-align: left;
     margin-left: 10%;
