@@ -51,8 +51,6 @@ table {
 
 /*CSS Reset ends here! -----------------------------  */
 
-
-
 body {
 background-color: #AFAFAF;
 }
@@ -60,6 +58,7 @@ background-color: #AFAFAF;
 h1 {
 font-size: 2em;
 font-family: 'Ubuntu';
+margin-top: 1em;
 margin-bottom: 1em;
 }
 
