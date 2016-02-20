@@ -24,13 +24,13 @@ font-size: 1.25em;
 background-color: #cc0000;
 color: white;
 display: block;
-margin: 0 auto;
+margin: 0 auto 1em;
 }
 
 #usremail {
 font-family: 'Ubuntu';
 font-size: 1em;
-margin-bottom: 2em;
+margin-bottom: 1em;
 }
 
 #video {
