@@ -60,11 +60,16 @@ background-color: #AFAFAF;
 h1 {
 font-size: 2em;
 font-family: 'Ubuntu';
+margin-bottom: 1em;
 }
 
-#introcontent {
+#introcontent {i
 position: relative;
 text-align: center;
+}
+
+#doomPhoto {
+margin-bottom: 2em;
 }
 
 #form {
@@ -113,6 +118,7 @@ top: 0;
     text-align: left;
     margin-left: 10%;
     margin-right: 10%;
+  margin-bottom: 1.5em;
     font-size: 1.25em;
     line-height: 1.25em;
 }
